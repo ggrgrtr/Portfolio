@@ -44,7 +44,7 @@
 
 # Проекты: 
 
- <br><br>
+ <br>
 
 ## Pet-Project. People YOLO-detection, tracking and ReID-embedding, полный пайплайн: 
 
@@ -54,7 +54,7 @@
 
 - Результат: Рабочая система отслеживания человека на видео или онлайн трансляции. Назначение ID и ведение tracklet-истории. ~3075 строк, 13 files, 12 classes 
 
-<img width="1208" height="751" alt="Screenshot 2026-06-02 140616" src="https://github.com/user-attachments/assets/146ea2bb-e48d-4ba1-9ec7-4e6be122bece" />
+<img width="600" height="400" alt="Screenshot 2026-06-02 140616" src="https://github.com/user-attachments/assets/146ea2bb-e48d-4ba1-9ec7-4e6be122bece" />
 
  
 
