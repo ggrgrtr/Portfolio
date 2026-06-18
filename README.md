@@ -17,7 +17,7 @@
 Прохожу основное обучение в Школе21 от Сбера по направлению Data Science. 
 
  
-<br><br>
+<br>
  
 
 ## Стек: 
@@ -27,7 +27,7 @@
 - Apscheduler, Shutil, Tkinter, Threading 
 
 
- <br><br>
+ <br>
  
 
 ## Инструменты: 
