@@ -63,7 +63,7 @@
 [ReadMe.md ](https://github.com/ggrgrtr/people/blob/main/readme.md)
 
  
-<br><br><br>
+<br><br>
 
 
 
@@ -82,7 +82,7 @@ LeNet: Вариационная настройка архитектуры мод
 [Readme_function ](https://github.com/ggrgrtr/Machine-learning-sine-and-complex-function/blob/main/README.md)
 
  
-<br><br><br>
+<br><br>
  
 
 ## Кросс-платформенное резервирование директорий. 
@@ -91,7 +91,7 @@ Python, ООП, Tkinter, Os, пользовательский интерфейс
 [Описание.pdf	 ](https://github.com/ggrgrtr/auto_reserving/blob/main/Reserve_%26_paste.pdf)
 
  
-<br><br><br>
+<br><br>
  
 
 ## Дополнения: 
