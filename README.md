@@ -5,7 +5,7 @@
 Россия, Москва | +79162834890 | multogor@gmail.com | t.me/multogor | https://github.com/ggrgrtr 
 
  
-
+<br><br>
  
 
 ## Summary: 
@@ -17,7 +17,7 @@
 Прохожу основное обучение в Школе21 от Сбера по направлению Data Science. 
 
  
-
+<br><br>
  
 
 ## Стек: 
@@ -26,6 +26,8 @@
 
 - Apscheduler, Shutil, Tkinter, Threading 
 
+
+ <br><br>
  
 
 ## Инструменты: 
@@ -38,11 +40,11 @@
 
  
 
- 
+ <br><br>
 
 # Проекты: 
 
- 
+ <br><br>
 
 ## Pet-Project. People YOLO-detection, tracking and ReID-embedding, полный пайплайн: 
 
@@ -71,37 +73,38 @@ LeNet: Вариационная настройка архитектуры мод
 
 - Точность MNIST: 99-99.2%. Точность LeNet: 70-75% 
 
-Readme_CIFAR 
+[Readme_CIFAR ](https://github.com/ggrgrtr/numbers_netwok/blob/main/README.md)
 
 - Предсказание мат.функций и первая классификация softmax: 
 
-Readme_function 
+[Readme_function ](https://github.com/ggrgrtr/Machine-learning-sine-and-complex-function/blob/main/README.md)
 
  
-
+<br><br><br>
  
 
 ## Кросс-платформенное резервирование директорий. Python, ООП, пользовательский интерфейс GUI, работа с txt- и bat-файлами: 
 
-Описание.pdf	 
+[Описание.pdf	 ](https://github.com/ggrgrtr/auto_reserving/blob/main/Reserve_%26_paste.pdf)
 
  
-
+<br><br><br>
  
 
 ## Дополнения: 
 
-Финалист кейс-чемпионата "Траектория" по треку "Робототехника и мехатроника" 
+- Финалист кейс-чемпионата "Траектория" по треку "Робототехника и мехатроника" 
 
-Участник IT-акселератора Цифра по направлению IT-агрегатор курсов. 
+- Участник IT-акселератора Цифра по направлению IT-агрегатор курсов. 
 
-Прошел онлайн-курс “Нейронные сети и компьютерное зрение” 
+- Прошел онлайн-курс “Нейронные сети и компьютерное зрение” 
 
- 
+<img width="1040" height="736" alt="Screenshot 2026-06-02 234625 — копия" src="https://github.com/user-attachments/assets/fd9b4f8f-ea65-40a3-b4e9-f81cf1cf9f77" />
+
 
 Obsidian, древо знаний, Нейронные сети: 
 
-Obsidian_NN-CV 
+[Obsidian_NN-CV ](https://github.com/ggrgrtr/obsidian_NN/blob/main/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B5%D1%82%D0%B8/%D0%9F1/L2-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.md)
 
  
 
