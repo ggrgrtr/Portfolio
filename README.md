@@ -48,13 +48,13 @@
 
 ## Pet-Project. People YOLO-detection, tracking and ReID-embedding, полный пайплайн: 
 
-Детектирование и отслеживание перемещения человека с помощью системы обновляемых треков. Определение, сравнение и подтверждение трека и личности за счет вычисления вектора признаков на основе ReID-модуля ResNet50, хранение личностей, Калман-предсказание маршрута. 
+- Детектирование и отслеживание перемещения человека с помощью системы обновляемых треков. Определение, сравнение и подтверждение трека и личности за счет вычисления вектора признаков на основе ReID-модуля ResNet50, хранение личностей, Калман-предсказание маршрута. 
 
-Использовал PyTorch, OpenCV, Threading, Ultralytics, TorchVision. 
+- Использовал PyTorch, OpenCV, Threading, Ultralytics, TorchVision. 
 
-Результат: Рабочая система отслеживания человека на видео или онлайн трансляции. Назначение ID и ведение tracklet-истории. ~3075 строк, 13 files, 12 classes 
+- Результат: Рабочая система отслеживания человека на видео или онлайн трансляции. Назначение ID и ведение tracklet-истории. ~3075 строк, 13 files, 12 classes 
 
- 
+<img width="1208" height="751" alt="Screenshot 2026-06-02 140616" src="https://github.com/user-attachments/assets/146ea2bb-e48d-4ba1-9ec7-4e6be122bece" />
 
  
 
@@ -64,6 +64,8 @@
 
  
 <br><br><br>
+
+
 
 ## CIFAR-10 & MNIST: Создание и обучение известных CNN с batch-нормализацией для датасетов изображений с использованием PyTorch, TorchVision.datasets:  
 
@@ -75,7 +77,7 @@ LeNet: Вариационная настройка архитектуры мод
 
 [Readme_CIFAR ](https://github.com/ggrgrtr/numbers_netwok/blob/main/README.md)
 
-- Предсказание мат.функций и первая классификация softmax: 
+- Предсказание мат.функций и классификация SoftMax: 
 
 [Readme_function ](https://github.com/ggrgrtr/Machine-learning-sine-and-complex-function/blob/main/README.md)
 
