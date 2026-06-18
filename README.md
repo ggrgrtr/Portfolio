@@ -61,9 +61,7 @@
 [ReadMe.md ](https://github.com/ggrgrtr/people/blob/main/readme.md)
 
  
-|
-|
- 
+<br><br><br>
 
 ## CIFAR-10 & MNIST: Создание и обучение известных CNN с batch-нормализацией для датасетов изображений с использованием PyTorch, TorchVision.datasets:  
 
