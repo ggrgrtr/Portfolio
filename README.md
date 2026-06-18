@@ -22,9 +22,9 @@
 
 ## Стек: 
 
-PyTorch, TorchVision, Pandas, OpenCV, NumPy, Matplotlib.pyplot, SQLite 
+- PyTorch, TorchVision, Pandas, OpenCV, NumPy, Matplotlib.pyplot, SQLite 
 
-Apscheduler, Shutil, Tkinter, Threading 
+- Apscheduler, Shutil, Tkinter, Threading 
 
  
 
