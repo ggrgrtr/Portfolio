@@ -30,11 +30,11 @@
 
 ## Инструменты: 
 
-Git & GitHub 
+- Git & GitHub 
 
-VS Code, PyCharm, Google Colab 
+- VS Code, PyCharm, Google Colab 
 
-Sql СУБД 
+- Sql СУБД 
 
  
 
@@ -58,7 +58,7 @@ Sql СУБД
 
 Репозиторий + видео: 
 
-ReadMe.md 
+[ReadMe.md ](https://github.com/ggrgrtr/people/blob/main/readme.md)
 
  
 
@@ -70,11 +70,11 @@ MNISTnet: ReLU, Tanh, batch-нормализация, последователь
 
 LeNet: Вариационная настройка архитектуры модели и сравнение Loss-функции 
 
-Точность MNIST: 99-99.2%. Точность LeNet: 70-75% 
+- Точность MNIST: 99-99.2%. Точность LeNet: 70-75% 
 
 Readme_CIFAR 
 
-Предсказание мат.функций и первая классификация softmax: 
+- Предсказание мат.функций и первая классификация softmax: 
 
 Readme_function 
 
