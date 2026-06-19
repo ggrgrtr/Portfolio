@@ -48,9 +48,8 @@
 
 ## Pet-Project. Детектирование и отслеживание перемещения человека с помощью системы обновляемых треков, полный пайплайн: 
 
-- YOLO-detection, tracking, matching and ReID-embedding. Transfer Learning, ResNet - Representation Learning, Metric Learning, CV - MultiObjectTracking, Re-Identification, Probabilistic Models - Kalman Prediction, многопоточность, хранение идентичностей
+- YOLO-detection, tracking, matching and ReID-embedding. Transfer Learning, ResNet - Representation Learning, Metric Learning, CV - MultiObjectTracking, Re-Identification, Probabilistic Models - Kalman Prediction, многопоточность. Определение, сравнение и подтверждение трека, хранение идентичностей
 
-- Определение, сравнение и подтверждение трека и личности за счет вычисления вектора признаков на основе ReID-модуля ResNet50, хранение личностей, Калман-предсказание маршрута. 
 
 - Использовал PyTorch, OpenCV, Threading, Ultralytics, TorchVision.
 
