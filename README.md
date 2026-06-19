@@ -46,13 +46,14 @@
 
  <br>
 
-## Pet-Project. People YOLO-detection, tracking and ReID-embedding, полный пайплайн: 
+## Pet-Project. Детектирование и отслеживание перемещения человека с помощью системы обновляемых треков, полный пайплайн: 
 
-- Детектирование и отслеживание перемещения человека с помощью системы обновляемых треков. Определение, сравнение и подтверждение трека и личности за счет вычисления вектора признаков на основе ReID-модуля ResNet50, хранение личностей, Калман-предсказание маршрута. 
+- People YOLO-detection, tracking, matching and ResNet + ReID-embedding. Transfer Learning, Representation Learning, Metric Learning, CV - MultiObjectTracking, Re-Identification, Probabilistic Models - Kalman Prediction, многопоточность, хранение идентичностей
+
+- Определение, сравнение и подтверждение трека и личности за счет вычисления вектора признаков на основе ReID-модуля ResNet50, хранение личностей, Калман-предсказание маршрута. 
 
 - Использовал PyTorch, OpenCV, Threading, Ultralytics, TorchVision.
 
-- Transfer Learning, Representation Learning, matching - Metric Learning, embedding, CV - MultiObjectTracking, Re-Identification, Probabilistic Models - KalmanPrediction, многопоточность, хранение идентичностей
 
 - Результат: Рабочая система отслеживания человека на видео или онлайн трансляции. Назначение ID и ведение tracklet-истории. ~3075 строк, 13 files, 12 classes 
 
