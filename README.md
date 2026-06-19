@@ -69,21 +69,21 @@
 
 
 
-## CIFAR-10 & MNIST: Создание и обучение известных CNN с batch-нормализацией для датасетов изображений с использованием PyTorch, TorchVision.datasets:  
+## CIFAR-10 & MNIST: Создание архитектуры CNN и обучение: 
 
-Аугментация данных, каскад сверток, слоев подвыборки, feature-map, Forward Pass, Optimization, Neural Network Training, Регуляризация
+Forward pass, Neural Network Training, Аугментация данных, каскад сверточных слоев, слоев подвыборки, Feature-map, Optimization, Regularization	 
 
-MNISTnet|CIFARNet: ReLU, CrossEntropyLoss, batch-нормализация, последовательная convolution2d, паддинг, lr=0.001
+- MNISTnet | CIFARNet: ReLU, CrossEntropyLoss, batch-нормализация, последовательная convolution2d, паддинг, lr=0.001
 
-LeNet: Вариационная настройка архитектуры модели и сравнение Loss-функций 
+- LeNet: Вариационная настройка архитектуры модели и сравнение Loss-функций 
 
-- Точность MNIST: 99-99.2%. Точность LeNet: 70-75% 
+Точность MNIST: 99-99.2%. Точность LeNet: 70-75% 
 
-[Readme_CIFAR ](https://github.com/ggrgrtr/numbers_netwok/blob/main/README.md)
+- [Readme_CIFAR ](https://github.com/ggrgrtr/numbers_netwok/blob/main/README.md)
 
-- Предсказание мат.функций и классификация SoftMax: 
+Предсказание мат.функций и классификация SoftMax: 
 
-[Readme_function ](https://github.com/ggrgrtr/Machine-learning-sine-and-complex-function/blob/main/README.md)
+- [Readme_function ](https://github.com/ggrgrtr/Machine-learning-sine-and-complex-function/blob/main/README.md)
 
  
 <br><br>
