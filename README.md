@@ -50,7 +50,9 @@
 
 - Детектирование и отслеживание перемещения человека с помощью системы обновляемых треков. Определение, сравнение и подтверждение трека и личности за счет вычисления вектора признаков на основе ReID-модуля ResNet50, хранение личностей, Калман-предсказание маршрута. 
 
-- Использовал PyTorch, OpenCV, Threading, Ultralytics, TorchVision. 
+- Использовал PyTorch, OpenCV, Threading, Ultralytics, TorchVision.
+
+- Transfer Learning, Representation Learning, matching - Metric Learning, embedding, CV - MultiObjectTracking, Re-Identification, Probabilistic Models - KalmanPrediction, многопоточность, хранение идентичностей
 
 - Результат: Рабочая система отслеживания человека на видео или онлайн трансляции. Назначение ID и ведение tracklet-истории. ~3075 строк, 13 files, 12 classes 
 
@@ -68,6 +70,8 @@
 
 
 ## CIFAR-10 & MNIST: Создание и обучение известных CNN с batch-нормализацией для датасетов изображений с использованием PyTorch, TorchVision.datasets:  
+
+Аугментация данных, каскад сверток, слоев подвыборки, feature-map, Forward Pass, Optimization, Neural Network Training, Регуляризация
 
 MNISTnet|CIFARNet: ReLU, CrossEntropyLoss, batch-нормализация, последовательная convolution2d, паддинг, lr=0.001
 
