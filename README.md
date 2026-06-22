@@ -106,7 +106,7 @@ Python, ООП, Tkinter, Os, пользовательский интерфейс
 
 - Прошел онлайн-курс “Нейронные сети и компьютерное зрение” 
 
-<img width="1040" height="736" alt="Screenshot 2026-06-02 234625 — копия" src="https://github.com/user-attachments/assets/fd9b4f8f-ea65-40a3-b4e9-f81cf1cf9f77" />
+<img width="400" height="250" alt="Screenshot 2026-06-02 234625 — копия" src="https://github.com/user-attachments/assets/fd9b4f8f-ea65-40a3-b4e9-f81cf1cf9f77" />
 
 
 Obsidian, древо знаний, Нейронные сети: 
