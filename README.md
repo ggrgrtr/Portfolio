@@ -67,7 +67,19 @@
  
 <br><br>
 
+## Измерение падения метрик моделей SuperPoint + LightGlue при квантовании и изменении размерности дескриптора: 
 
+Fake-quantization, PCA, matcher, descriptor tensor of key points, MMA, hAUC, HPaches dataset 
+
+- torch, lightglue, numpy, cv2, dataclasses 
+
+- Изменение битности параметра дескриптора: 8 -> 4, 2 бит 
+
+- Изменение размерности дескриптора: 256 -> 128, 64, 32 аргументов 
+
+- [README](https://github.com/ggrgrtr/SuperPoint_LightGlue_Metrics/blob/main/README.md)
+
+<br><br>
 
 ## CIFAR-10 & MNIST: Создание архитектуры CNN и обучение: 
 
