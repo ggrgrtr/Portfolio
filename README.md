@@ -24,7 +24,7 @@
 
 - PyTorch, TorchVision, Pandas, OpenCV, NumPy, Matplotlib.pyplot, SQLite 
 
-- Apscheduler, Shutil, Tkinter, Threading 
+- Apscheduler, Shutil, Tkinter, Threading, Os
 
 
  <br>
@@ -71,7 +71,7 @@
 
 Fake-quantization, PCA, matcher, embedding tensor of key points, MMA, hAUC, HPaches dataset 
 
-- torch, lightglue, numpy, cv2, dataclasses 
+- torch, lightglue, numpy, cv2, os, dataclasses 
 
 - Изменение битности параметра дескриптора: 8 -> 4, 2 бит 
 
