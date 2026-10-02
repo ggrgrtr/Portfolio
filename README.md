@@ -69,7 +69,7 @@
 
 ## Измерение падения метрик моделей SuperPoint + LightGlue при квантовании и изменении размерности дескриптора: 
 
-Fake-quantization, PCA, matcher, descriptor tensor of key points, MMA, hAUC, HPaches dataset 
+Fake-quantization, PCA, matcher, embedding tensor of key points, MMA, hAUC, HPaches dataset 
 
 - torch, lightglue, numpy, cv2, dataclasses 
 
